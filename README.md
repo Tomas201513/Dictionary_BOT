@@ -1,2 +1,5 @@
 # Dictionary_BOT
-![Screenshot](pic/dictionarybot.png)
+![Screenshot](pic/bob.png)
+![Screenshot](pic/urban.png)
+![Screenshot](pic/datas.png)
+
